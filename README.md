@@ -60,10 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/pranav1237/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pranav1237/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/pranav1237/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pranav1237/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
@@ -72,5 +74,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/pranav1237/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pranav1237/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/pranav1237/Leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
