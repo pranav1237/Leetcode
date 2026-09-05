@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/pranav1237/Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/pranav1237/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/pranav1237/Leetcode/tree/master/0118-pascals-triangle) |
+| [0303-range-sum-query-immutable](https://github.com/pranav1237/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0875-koko-eating-bananas](https://github.com/pranav1237/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/pranav1237/Leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pranav1237/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -184,9 +185,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/pranav1237/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [3903-smallest-stable-index-i](https://github.com/pranav1237/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pranav1237/Leetcode/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/pranav1237/Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
