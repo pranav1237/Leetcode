@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/pranav1237/Leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/pranav1237/Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/pranav1237/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/pranav1237/Leetcode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/pranav1237/Leetcode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/pranav1237/Leetcode/tree/master/0169-majority-element) |
 | [0303-range-sum-query-immutable](https://github.com/pranav1237/Leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pranav1237/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0078-subsets](https://github.com/pranav1237/Leetcode/tree/master/0078-subsets) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pranav1237/Leetcode/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/pranav1237/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
