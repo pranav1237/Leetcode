@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/pranav1237/Leetcode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/pranav1237/Leetcode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/pranav1237/Leetcode/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/pranav1237/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/pranav1237/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0875-koko-eating-bananas](https://github.com/pranav1237/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/pranav1237/Leetcode/tree/master/0994-rotting-oranges) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/pranav1237/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/pranav1237/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [3903-smallest-stable-index-i](https://github.com/pranav1237/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Bracket Sequences
