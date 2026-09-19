@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/pranav1237/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0643-maximum-average-subarray-i](https://github.com/pranav1237/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0875-koko-eating-bananas](https://github.com/pranav1237/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/pranav1237/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/pranav1237/Leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pranav1237/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/pranav1237/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pranav1237/Leetcode/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/pranav1237/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pranav1237/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0904-fruit-into-baskets](https://github.com/pranav1237/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Linked List
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/pranav1237/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/pranav1237/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/pranav1237/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/pranav1237/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/pranav1237/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2090-k-radius-subarray-averages](https://github.com/pranav1237/Leetcode/tree/master/2090-k-radius-subarray-averages) |
 ## Binary Search
